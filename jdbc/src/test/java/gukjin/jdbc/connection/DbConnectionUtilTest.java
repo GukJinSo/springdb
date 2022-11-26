@@ -1,4 +1,4 @@
-package gukjin.connection;
+package gukjin.jdbc.connection;
 
 import gukjin.jdbc.connection.DbConnectionUtil;
 import org.junit.jupiter.api.Test;
